@@ -1,2 +1,4 @@
 # Analise-Exploratoria-Setores Censitario
-Analise Exploratória
+Analise Exploratória dos Setores Censitários
+
+Objetivos:
